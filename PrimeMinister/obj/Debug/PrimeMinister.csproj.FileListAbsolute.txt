@@ -1,0 +1,7 @@
+C:\Users\varsha\Desktop\c#\PrimeMinister\PrimeMinister\obj\Debug\PrimeMinister.csprojAssemblyReference.cache
+C:\Users\varsha\Desktop\c#\PrimeMinister\PrimeMinister\obj\Debug\PrimeMinister.csproj.CoreCompileInputs.cache
+C:\Users\varsha\Desktop\c#\PrimeMinister\PrimeMinister\bin\Debug\PrimeMinister.exe.config
+C:\Users\varsha\Desktop\c#\PrimeMinister\PrimeMinister\bin\Debug\PrimeMinister.exe
+C:\Users\varsha\Desktop\c#\PrimeMinister\PrimeMinister\bin\Debug\PrimeMinister.pdb
+C:\Users\varsha\Desktop\c#\PrimeMinister\PrimeMinister\obj\Debug\PrimeMinister.exe
+C:\Users\varsha\Desktop\c#\PrimeMinister\PrimeMinister\obj\Debug\PrimeMinister.pdb
